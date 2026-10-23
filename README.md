@@ -19,14 +19,6 @@ Dataset Name: Sample - Superstore
 
 The dataset contains retail sales information, including orders, customers, products, sales, profit, quantity, category, and region.
 
-Tasks Completed
-
-- Day 21: Business Requirements
-- Day 22: Dataset Understanding
-- Day 23–27: Data Analytics Internship Tasks
-- Day 28: SQL Analysis
-- Day 29: KPI Development
-
 Tools and Technologies
 
 - Python
