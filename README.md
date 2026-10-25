@@ -48,4 +48,4 @@ This project demonstrates practical data analytics skills, including data unders
 
 Author
 
-Data Analytics Intern
+Madhura Kulkarni 
